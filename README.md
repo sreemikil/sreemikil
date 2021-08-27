@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p align="center">
     <a href="https://github.com/sreemikil/github-readme-streak-stats">
@@ -26,3 +25,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/sreemikil/github-readme-stats"><img alt="Akshay Benny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreemikil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/sreemikil/github-readme-activity-graph"><img alt="Akshay Benny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreemikil&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+-->
